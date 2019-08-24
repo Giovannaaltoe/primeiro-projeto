@@ -1,6 +1,7 @@
 # Relatório Início
 ## Efeito Magnus no esporte
-Integrantes: 
+Integrantes:  
+
   Bruno Gomes 
   Gabriel de Andrade Ribeiro - 17/0103366
   Giovanna Bezerra Oliveira Altoé - 17/0104133
