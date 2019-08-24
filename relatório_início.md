@@ -1,5 +1,5 @@
-#Relatório Início
-##Efeito Magnus no esporte
+# Relatório Início
+## Efeito Magnus no esporte
 Integrantes: 
   Bruno Gomes 
   Gabriel de Andrade Ribeiro - 17/0103366
